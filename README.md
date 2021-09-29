@@ -1,9 +1,7 @@
 ### Hey! Sou o Maiterney
 
 - 🔭 Trabalho com front-end
-- 🌱 Estou aprendendo javascript
-- 😄 Pronomes ele/dele
-- 🍜 Eu gosto de lamem
+- 🌱 Atualmente estou aprendendo a desenvolver em Nextjs
 - 🔥 Quero me tornar um grande programador
 
  <div>

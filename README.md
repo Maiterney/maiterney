@@ -4,6 +4,7 @@
 - 🌱 Atualmente estou aprendendo a desenvolver em Nextjs
 - 🔥 Quero me tornar um grande programador
 
+
  <div>
   <a href="https://github.com/maiterney">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiterney&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
